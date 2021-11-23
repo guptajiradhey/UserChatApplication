@@ -34,6 +34,7 @@ public class PostActivity extends AppCompatActivity {
         pg.setCancelable(false);
         pg.setMessage("Please Wait...");
         pg.show();
+
         Glide.with(this)
                 .load(imageUrl)
                 .listener(new RequestListener<Drawable>() {
