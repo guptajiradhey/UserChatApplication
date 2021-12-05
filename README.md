@@ -1,2 +1,2 @@
 # UserChatApplication
-#Chat Application uusing firebase as a backend database
+#Chat Application using firebase as a backend database
